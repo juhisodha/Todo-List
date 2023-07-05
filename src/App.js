@@ -72,9 +72,6 @@ const Footer = () => {
         <a href="https://github.com/juhisodha" rel="noreferrer" target="_blank"><VscGithub size={25} /></a>
         <a href="https://www.linkedin.com/in/juhi-sodha-510188225/" rel="noreferrer" target="_blank"><SiLinkedin size={25} /></a>
       </p>
-      <p>
-        <a href="https://github.com/adelicia-js/todo-cra" rel="noreferrer" target="_blank" className="source">$Source | 2023 - 2024</a>
-      </p>
 
     </>
   );
